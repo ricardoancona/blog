@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Ink"
 theme = "ink"
@@ -21,7 +21,7 @@ disqusShortname = "ink-demo"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
-	
+
 	featherIconsCDN = true
 
 	mode = "auto" # "dark" or "auto"
